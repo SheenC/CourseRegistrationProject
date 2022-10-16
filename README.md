@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+# Course Registration Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is developed using React and Javascript as frontend, NodeJS and Express as backend, MongoDB as database.
 
-## Available Scripts
+## Scripts
 
 In the project directory, you can run:
 
